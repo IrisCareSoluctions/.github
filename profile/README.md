@@ -6,6 +6,10 @@
 <img align="center" src="https://github.com/IrisCareSoluctions/HybridMobile/blob/main/assets/evidencia4.png" />
 
 
+# <span style="color: #63C71F;">Pitch</span>
+
+[Assista ao video Pitch](https://1drv.ms/v/s!Av4J08lbmSEZjpY-svhhZY78xlm7XQ?e=FjwylN)
+
 ----
 
 # <span style="color: #63C71F;">Demonstração WebApp da Azure </span>
